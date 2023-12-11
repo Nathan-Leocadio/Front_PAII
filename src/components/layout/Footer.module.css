@@ -1,0 +1,15 @@
+.Footer {
+    height: 12rem;
+    display: flex;
+
+    /* usado para alinhar verticalmente */
+    align-items: center;
+
+    /* usuado para alinhar horizontalmente */
+    justify-content: center;
+
+    background-color: #444;
+    color: white;
+    font-weight: bolder;
+    border-top: 0.1rem solid black
+}
